@@ -28,7 +28,7 @@
   "dependencies": {
     "@aws-cdk/aws-apigateway": "^1.87.0",
     "@aws-cdk/aws-events-targets": "^1.87.0",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.21"
   },
   "husky": {
     "hooks": {
